@@ -38,3 +38,5 @@ A web scraper and interactive Streamlit application that fetches and displays 1,
 - `scraper.py`: Core web scraper using BeautifulSoup4.
 - `requirements.txt`: Python dependencies.
 - `.gitignore`: Configured to ignore virtual environments, cache files, and OS files.
+
+**Project link**https://bookapp-mrnhvkfedymx6vuumuqerl.streamlit.app/
